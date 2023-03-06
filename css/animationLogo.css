@@ -16,18 +16,13 @@
     animation-name: animatedLogo;
     animation-duration: 3s;
     animation-iteration-count: infinite;   
-    animation-timing-function: ease; 
+    animation-timing-function: lenear; 
     position: absolute;
     top: 50%;
     left: 45%;
-    cursor: pointer;
-  
-  } 
+   } 
 
-  .img:hover{
-    animation-name: animatedLogo;
-    animation-timing-function: ease;
-  }
+ 
   body{
     background-color:  white;
   }
