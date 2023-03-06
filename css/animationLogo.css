@@ -1,5 +1,5 @@
 @keyframes animatedLogo {
-    0%   {background-color: brown;}
+    0%   {background-color: lightsalmon;}
     25%  {background-color: palevioletred;
       transform:  rotate(180deg);  }
     50%  {background-color: pink;
